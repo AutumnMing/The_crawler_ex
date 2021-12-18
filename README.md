@@ -3,6 +3,6 @@
 # 参考书: 崔庆才 python3网络爬虫开发实战
 
 ## Day1
-![image](Pictures/Day1pic/day1_pic.png)
+![image](Pictures/day1_pic.png)
 
 
